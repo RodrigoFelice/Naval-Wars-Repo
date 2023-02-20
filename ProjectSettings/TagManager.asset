@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cannon
+  - Boat
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Bonds
+  - Enemies
+  - Normal Map
+  - MiniMap
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Environment
+    uniqueID: 3893019753
+    locked: 0
+  - name: Islands
+    uniqueID: 1634145327
+    locked: 0
+  - name: Objects
+    uniqueID: 1093075221
+    locked: 0
+  - name: Enemies
+    uniqueID: 832737163
+    locked: 0
+  - name: Player
+    uniqueID: 2689275015
+    locked: 0
